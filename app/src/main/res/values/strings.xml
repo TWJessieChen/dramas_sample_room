@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dramas_sample_room</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint"></string>
+
+    <string name="prompt_enabling_wifi">Wi-Fi&#8230; is Enabling</string>
+    <string name="prompt_disabling_wifi">Wi-Fi&#8230; is Disabling</string>
+
+    <string name="ok">ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="warring">Warring</string>
+    <string name="intent_settings_app">Intent Settings app</string>
+
+</resources>
